@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+}
+.card:hover{
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    transform: scale(1.1);
+    background-color: rgb(145, 156, 48);
+
+}
+a{
+     border-radius: 100px;
+}
+nav{
+    margin-bottom: 10px;
+}
