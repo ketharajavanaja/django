@@ -22,4 +22,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('bs1/',bs1,name='bs1'),
     path('forms/',forms,name='forms'),
+    path('flipkart/',flipkart,name='flipkart')
 ]
